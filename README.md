@@ -1,7 +1,7 @@
 # py-Relic-Wars-Game
 Telegram-fantasy, Chat RPG,  Text MMO
 
-#Welcome to Relic Wars Game
+# Welcome to Relic Wars Game
 ¡Bienvenido, valiente 🤺guerrero!
 
 Has renacido en este nuevo 🌍 mundo lleno de 🌟 magia y feroces 🐉bestias.
