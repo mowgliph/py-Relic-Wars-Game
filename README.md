@@ -1,4 +1,4 @@
-# py-Relic-Wars-Game
+# Relic Wars
 Telegram-fantasy, Chat RPG,  Text MMO
 
 # Welcome to Relic Wars Game
